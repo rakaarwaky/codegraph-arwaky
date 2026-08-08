@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "codegraph-arwaky": {
+      "command": "node",
+      "args": [
+        "/home/raka/mcp-arwaky/codegraph-arwaky/dist/bin/codegraph.js"
+      ]
+    }
+  }
+}
